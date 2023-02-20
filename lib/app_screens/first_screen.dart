@@ -13,7 +13,7 @@ class FirstScreen extends StatelessWidget {
       color: Colors.blueAccent,
       child: Center(
         child: Text(
-          "Your Lucky number is ${generateLuckyNumber()}",
+          "Yr Lucky number is ${generateLuckyNumber()}",
           textDirection: TextDirection.ltr,
           style: TextStyle(color: Colors.white, fontSize: 40.0),
 
